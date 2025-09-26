@@ -52,3 +52,9 @@ wwww
 ﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋw
 wwww
 </code>
+
+<h1>・実行方法</h1>
+.lcrzの拡張子のファイルを作成後、
+コマンドプロンプトやその他ターミナルで、
+<h4>./glc /path/to/yourfile.lcrz</h4>
+で実行
