@@ -14,41 +14,41 @@
 <h1>・スクリプト例："Hello World" (hello2 ver)</h1>
 
 <code>
-  // 32:space, 65~90:ABCDEFGHIJKLMNOPQRSTUVWXYZ, 97~122:abcdefghijklmnopqrstuvwxyz
-  // H
-  ｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬw
-  ｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬw
-  wwww
-  // e
-  ｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬw
-  ｱﾋｬwｱﾋｬw
-  wwww
-  // l
-  ｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬw
-  wwww
-  // l
-  wwww
-  // o
-  ｱﾋｬwｱﾋｬwｱﾋｬw
-  wwww
-  // SPACE
-  ﾃﾞｭﾌw
-  ｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬw
-  wwww
-  ｸﾞﾌｯw
-  // W
-  ﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋw
-  wwww
-  // o
-  ｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬw
-  wwww
-  // r
-  ｱﾋｬwｱﾋｬwｱﾋｬw
-  wwww
-  // l
-  ﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋw
-  wwww
-  // d
-  ﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋw
-  wwww
+	// 32:space, 65~90:ABCDEFGHIJKLMNOPQRSTUVWXYZ, 97~122:abcdefghijklmnopqrstuvwxyz
+	// H
+	ｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬw
+	ｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬw
+	wwww
+	// e
+	ｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬw
+	ｱﾋｬwｱﾋｬw
+	wwww
+	// l
+	ｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬw
+	wwww
+	// l
+	wwww
+	// o
+	ｱﾋｬwｱﾋｬwｱﾋｬw
+	wwww
+	// SPACE
+	ﾃﾞｭﾌw
+	ｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬw
+	wwww
+	ｸﾞﾌｯw
+	// W
+	ﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋw
+	wwww
+	// o
+	ｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬwｱﾋｬw
+	wwww
+	// r
+	ｱﾋｬwｱﾋｬwｱﾋｬw
+	wwww
+	// l
+	ﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋw
+	wwww
+	// d
+	ﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋwﾋﾋﾋw
+	wwww
 </code>
